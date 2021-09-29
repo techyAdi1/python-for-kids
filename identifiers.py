@@ -1,0 +1,10 @@
+var1 = "Adi"
+print_to_this_screen = "Green"
+# 1variable = "Error" #Error
+variable1 = "NOT AN ERROR"
+# techy$Adi = "Error" #Error
+techy_Adi = "NOT AN ERROR"
+AA = "Adi"
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA= "ADI"
+Aditya = "Adi"
+aditya = "Adi"
